@@ -7,5 +7,5 @@ Infotainment project that overhauls the OS and launcher of a Microsoft Surface P
 - Bliss OS
 - External CarPlay dongle
 - Custom launcher app to boot into
-- External USB camera for reverse
+- Possible external USB camera for reverse
   - No automatic switching.
