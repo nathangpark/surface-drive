@@ -6,6 +6,6 @@ Infotainment project that overhauls the OS and launcher of a Microsoft Surface P
 100% Android implementation.
 - Bliss OS
 - Standard launcher
-- External CarPlay dongle
+- [External CarPlay dongle](https://autokitcarplay.com/products/autokit-ccpa-wireless-carplay-dongle-special-for-android-head-unit?utm_source=chatgpt.com)
 
 
