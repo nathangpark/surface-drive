@@ -1,11 +1,11 @@
 # surface-drive
 Infotainment project that overhauls the OS and launcher of a Microsoft Surface Pro 7.
 
-## Plans for v1.0
+## v0.1
 
 100% Android implementation.
 - Bliss OS
+- Standard launcher
 - External CarPlay dongle
-- Custom launcher app to boot into
-- Possible external USB camera for reverse
-  - No automatic switching.
+
+
